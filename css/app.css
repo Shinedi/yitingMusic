@@ -13,9 +13,9 @@
     width:280px;
     height:486px;
     background:#CCC;
-    position:relative;
-    top:15.7%;
-    left:46.5%;
+    position:absolute;
+    top:17.5%;
+    left:45.5%;
     overflow:hidden;
 }
 #box2{
@@ -31,15 +31,17 @@
 }
 .erweima1{
     /*background: navajowhite;*/
-    position:absolute;
+    float: left;
+    position:relative;
     top:50%;
-    left:20%;
+    left:15%;
 }
 .erweima2{
     /*background: navajowhite;*/
-    position:absolute;
+    float:left;
+    position:relative;
     top:50%;
-    left:30%;
+    left:18%;
 }
 h2{
     color:#31b0d5;
